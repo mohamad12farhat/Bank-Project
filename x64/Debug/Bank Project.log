@@ -1,0 +1,93 @@
+﻿  Bank Project.cpp
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\Bank Project.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(195,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(326,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsString.h(374,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUtil.h(66,5): warning C4102: 'defualt': unreferenced label
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(159,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(137,9): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(164,3): warning C4091: 'static ': ignored on left of 'clsUser::stLoginRegisterRecord' when no variable is declared
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsClientListScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(170,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(60,9): message : see declaration of 'clsBankClient::stTransferLog'
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(27,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(353,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(365,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsClientListScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsFindClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTransactionScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTransactionScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTransactionScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDepositScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDepositScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDepositScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDepositScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTransactionScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsWithdrawScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsWithdrawScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsWithdrawScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTransactionScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTotalBalancesScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTotalBalancesScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsTotalBalancesScreen.h(55,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsListUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsListUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsAddNewUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsDeleteUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUpdateUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsManageUsersScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsFindUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsFindUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsFindUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsCurrenciesExchangeScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsCurrenciesExchangeScreen.h(22,50): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsMainScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsLoginScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\Bank Project.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsBankClient.h(306): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\clsUser.h(318): warning C4715: 'clsUser::save': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\HP\OneDrive\Documents\c++\level11\Bank Project\x64\Debug\Bank Project.exe
