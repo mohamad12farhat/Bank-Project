@@ -1,0 +1,1 @@
+Built a simple Bank Management System using C++ that allows users to create accounts, deposit and withdraw money, and view balances. The system uses file handling for data storage and simulates real-world banking operations via a console interface.
